@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#files 
+src/base
+src/tests/base
+src/tests/demo.test.js
+src/tests/FirstApp.test.js
+src/tests/__snapshots__/FirstApp.test.js.snap
+src/FirstApp.js
